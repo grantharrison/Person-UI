@@ -70,6 +70,7 @@
                         <constraints>
                             <constraint firstItem="WUa-TD-9Xh" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="5zH-LE-Xle"/>
                             <constraint firstItem="4uL-7O-fAk" firstAttribute="leading" secondItem="5Zh-jT-H0H" secondAttribute="trailing" constant="10" id="6QS-wQ-Rkd"/>
+                            <constraint firstItem="TJL-hU-bt2" firstAttribute="centerY" secondItem="SgN-W4-DVP" secondAttribute="centerY" id="9ez-db-rel"/>
                             <constraint firstItem="TJL-hU-bt2" firstAttribute="top" secondItem="4uL-7O-fAk" secondAttribute="bottom" constant="15" id="AKp-H9-rrk"/>
                             <constraint firstItem="dub-s1-e9M" firstAttribute="centerY" secondItem="SgN-W4-DVP" secondAttribute="centerY" id="As5-oB-2x6"/>
                             <constraint firstItem="WUa-TD-9Xh" firstAttribute="top" secondItem="TJL-hU-bt2" secondAttribute="bottom" constant="60" id="C2h-2z-zDY"/>
@@ -81,7 +82,6 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="WUa-TD-9Xh" secondAttribute="bottom" id="cBb-jc-JaA"/>
                             <constraint firstAttribute="trailingMargin" secondItem="TJL-hU-bt2" secondAttribute="trailing" id="eDY-Af-gAU"/>
                             <constraint firstItem="WUa-TD-9Xh" firstAttribute="top" secondItem="jg6-eQ-vbS" secondAttribute="bottom" constant="15" id="enN-sk-O5T"/>
-                            <constraint firstItem="TJL-hU-bt2" firstAttribute="baseline" secondItem="SgN-W4-DVP" secondAttribute="baseline" id="iEe-HT-vQK"/>
                             <constraint firstAttribute="trailingMargin" secondItem="WUa-TD-9Xh" secondAttribute="trailing" id="iaJ-An-taX"/>
                             <constraint firstItem="SsJ-Kl-kmp" firstAttribute="top" secondItem="SgN-W4-DVP" secondAttribute="bottom" constant="20" id="jJG-fr-Bg8"/>
                             <constraint firstItem="SsJ-Kl-kmp" firstAttribute="trailing" secondItem="SgN-W4-DVP" secondAttribute="trailing" id="oZF-sQ-x0h"/>
